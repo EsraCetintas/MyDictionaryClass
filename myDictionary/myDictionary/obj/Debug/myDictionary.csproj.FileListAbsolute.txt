@@ -1,0 +1,7 @@
+C:\Users\esrac\source\repos\myDictionary\myDictionary\obj\Debug\myDictionary.csprojAssemblyReference.cache
+C:\Users\esrac\source\repos\myDictionary\myDictionary\obj\Debug\myDictionary.csproj.CoreCompileInputs.cache
+C:\Users\esrac\source\repos\myDictionary\myDictionary\bin\Debug\myDictionary.exe.config
+C:\Users\esrac\source\repos\myDictionary\myDictionary\bin\Debug\myDictionary.exe
+C:\Users\esrac\source\repos\myDictionary\myDictionary\bin\Debug\myDictionary.pdb
+C:\Users\esrac\source\repos\myDictionary\myDictionary\obj\Debug\myDictionary.exe
+C:\Users\esrac\source\repos\myDictionary\myDictionary\obj\Debug\myDictionary.pdb
